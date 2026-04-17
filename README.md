@@ -6,6 +6,8 @@ I code up language interpreters and creative projects. I reach for Haskell and v
 
 I litter my code comments with haikus. You should try to find some of them. Better yet, you should send me some haikus. Click one of the contact links in that there left pane to do so.
 
-two men walk abreast
-a sky full of dying stars
-one is not a man
+>two men walk abreast
+>
+>a sky full of dying stars
+>
+>one is not a man
